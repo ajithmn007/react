@@ -1,0 +1,25 @@
+.meals{
+    max-width: 50rem;
+    width: 90%;
+    margin: auto;
+    margin-top: 3rem;
+    
+}
+
+.meals ul{
+    list-style: none;
+}
+
+.loading{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.httpError{
+    text-align: center;
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+}
